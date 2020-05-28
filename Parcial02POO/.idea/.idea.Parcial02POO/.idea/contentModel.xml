@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\cesar\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\cesar\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cesar\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial02POO.-1123167412.00" t="ExcludeRecursive" />
+    <e p="C:\Users\cesar\Desktop\Parcial02_POO\Parcial02POO" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Parcial02POO" t="IncludeRecursive">
+        <e p="Address.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Business.cs" t="Include" />
+        <e p="ConnectionDB.cs" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="frmMainMenu.cs" t="Include" />
+        <e p="frmMainMenu.Designer.cs" t="Include" />
+        <e p="frmMainMenu.resx" t="Include" />
+        <e p="Login.cs" t="Include" />
+        <e p="Login.Designer.cs" t="Include" />
+        <e p="Login.resx" t="Include" />
+        <e p="MainUserMenu.cs" t="Include" />
+        <e p="MainUserMenu.Designer.cs" t="Include" />
+        <e p="MainUserMenu.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Parcial02POO.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="BackSign.JPG" t="Include" />
+          <e p="BannerAPP.jpg" t="Include" />
+          <e p="FondoApp1.jpg" t="Include" />
+          <e p="LogoApp.jpg" t="Include" />
+          <e p="Logoapp0.PNG" t="Include" />
+          <e p="logoAppFinal.PNG" t="Include" />
+          <e p="TuercaXD.JPG" t="Include" />
+        </e>
+      </e>
+      <e p="Parcial02POO.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
